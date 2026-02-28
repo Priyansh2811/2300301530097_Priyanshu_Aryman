@@ -1,4 +1,3 @@
-majority element in array is the element that appears more than n/2 times in the array. Given an array of size n, find the majority element. You may assume that the majority element always exists in the array.
 import java.util.Scanner;
 public class majority_element {
     public static int majorityElement(int[] nums) {
